@@ -1,0 +1,100 @@
+body{
+    background-color: lightgray;
+
+}
+.header{
+    
+    width:95%;
+    height: 150px;
+   
+    background-color: rgba(105, 105, 105, 0.29);
+    border: 3px solid gray;
+    margin: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+   
+   
+}
+.exit{
+    width: 70px;
+    height: 70px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.header-left{
+    width: 30%;
+
+}
+.header-center{
+    text-align: center; 
+    width:40%;
+    padding-top:30px;
+}
+
+.header-photos{
+    width: 5    0px;
+    height: 50px;
+    display: flex;
+   padding-top: 40px;
+   padding-left:170px;
+ 
+}
+.header-right{
+    width:30%
+}
+
+
+.block1{
+    display: flex;
+}
+
+
+.text-photos1{
+    display: flex;
+}
+.text{
+    width:40%;
+    height: 460px;
+    float:left;
+    padding:30px;
+    margin: 20px;
+    border: 4px solid gray;
+    background-color: rgba(121, 131, 133, 0.474)
+    
+    
+}
+.photos1{
+    width:50%;
+    height: 460px;
+    text-align:center;
+    margin:20px;
+    padding-top:60px;
+    border: 4px solid gray;
+    background-color: rgba(121, 131, 133, 0.474)
+
+    
+
+}
+h2{
+    text-align: center;
+}
+
+mark{
+    background-color: white;
+}
+.photo1{
+    height:110px;
+}
+.photo2{
+    width:350px;
+    height:110px;
+}
+.photo3{
+    height:190px;
+}
+
+.photo4{
+    width:300px;
+    height:200px;
+}
